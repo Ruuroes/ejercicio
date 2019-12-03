@@ -1,0 +1,6 @@
+cd <ruta de tu workspace>
+git clone https://github.com/Ruuroes/saludador2019.git
+cd saludador2019
+git add .
+git commit -m
+git push origin master

@@ -1,0 +1,2 @@
+cd c:/descargas
+git clone https://github.com/<Ruuroes>/amadontsc/HolaMundo_Java

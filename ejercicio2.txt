@@ -1,0 +1,10 @@
+
+
+cd c:/
+cd ProgramaEjercicio2
+añadimos el fichero
+git init
+git remote add origin https://Ruuroes/Ejercicio2.git
+git add .
+git commit -m "Commit inicial"
+git push -u origin master
